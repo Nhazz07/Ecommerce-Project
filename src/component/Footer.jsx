@@ -10,7 +10,7 @@ function Footer() {
               K
             </span>
             <span className="text-[13px] font-bold uppercase tracking-[.22em]">
-              Kora / House
+              MatteeStore
             </span>
           </div>
           <p className="max-w-xs text-sm leading-7 text-white/55">
